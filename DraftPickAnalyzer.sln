@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftPickAnalyzer", "DraftPickAnalyzer\DraftPickAnalyzer.csproj", "{B5292F75-44F2-4FA3-AEE4-39DF626324FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraftPickAnalyzerTests", "DraftPickAnalyzerTests\DraftPickAnalyzerTests.csproj", "{CF2DB348-F31A-4999-AD98-01FEC2B630E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5292F75-44F2-4FA3-AEE4-39DF626324FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5292F75-44F2-4FA3-AEE4-39DF626324FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5292F75-44F2-4FA3-AEE4-39DF626324FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5292F75-44F2-4FA3-AEE4-39DF626324FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2DB348-F31A-4999-AD98-01FEC2B630E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2DB348-F31A-4999-AD98-01FEC2B630E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2DB348-F31A-4999-AD98-01FEC2B630E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2DB348-F31A-4999-AD98-01FEC2B630E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E2C41A-E8A3-4602-B7FB-B01705BFEA42}
+	EndGlobalSection
+EndGlobal
